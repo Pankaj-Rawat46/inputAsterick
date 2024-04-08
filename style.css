@@ -1,0 +1,12 @@
+.custom-input {
+    position: relative;
+  }
+  
+  .custom-input .asterisk {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    color: red; 
+  }
+  
